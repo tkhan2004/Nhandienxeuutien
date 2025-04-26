@@ -36,7 +36,9 @@
 git clone https://github.com/tkhan2004/Nhandienxeuutien.git
 cd Nhandienxeuutien
 ```
-
+```bash
+https://github.com/tkhan2004/BackendNhandienxeuutien.git
+```
 ---
 
 ### 2. Thiết lập môi trường backend (Python)
