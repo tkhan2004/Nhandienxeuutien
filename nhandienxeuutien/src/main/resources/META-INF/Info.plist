@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>Nhận diện xe ưu tiên</string>
+    <key>CFBundleIdentifier</key>
+    <string>org.example.nhandienxeuutien</string>
+    <key>CFBundleVersion</key>
+    <string>1.0</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Ứng dụng này cần truy cập camera để nhận diện xe ưu tiên</string>
+    <key>NSCameraUseContinuityCameraDeviceType</key>
+    <true/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Ứng dụng này không cần truy cập microphone</string>
+</dict>
+</plist> 
